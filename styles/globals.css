@@ -1,0 +1,10 @@
+@font-face {
+  font-family: lightSegoe;
+  src: url("../public/fonts/segoe-ui/normal.woff2") format("woff2");
+}
+html,
+body {
+  /* font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; */
+  font-family: lightSegoe !important;
+}
